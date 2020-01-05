@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\bin\Debug\StaticMembers.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\bin\Debug\StaticMembers.exe
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\bin\Debug\StaticMembers.pdb
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\obj\Debug\StaticMembers.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\obj\Debug\StaticMembers.exe
+C:\Users\snk75\Desktop\DOT(NET)\BasicClassConcepts\StaticMembers\obj\Debug\StaticMembers.pdb

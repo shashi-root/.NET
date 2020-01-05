@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\bin\Debug\TODOS.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\bin\Debug\TODOS.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\bin\Debug\TODOS.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\obj\Debug\TODOS.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\obj\Debug\TODOS.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\obj\Debug\TODOS.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\TODOS\obj\Debug\TODOS.pdb

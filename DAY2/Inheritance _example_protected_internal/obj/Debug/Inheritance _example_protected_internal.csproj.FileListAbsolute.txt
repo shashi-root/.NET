@@ -1,0 +1,6 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\bin\Debug\Inheritance _example_protected_internal.dll
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\bin\Debug\Inheritance _example_protected_internal.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\obj\Debug\Inheritance _example_protected_internal.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\obj\Debug\Inheritance _example_protected_internal.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\obj\Debug\Inheritance _example_protected_internal.dll
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inheritance _example_protected_internal\obj\Debug\Inheritance _example_protected_internal.pdb

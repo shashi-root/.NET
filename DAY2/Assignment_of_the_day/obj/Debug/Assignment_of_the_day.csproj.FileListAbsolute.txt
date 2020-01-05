@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\bin\Debug\Assignment_of_the_day.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\bin\Debug\Assignment_of_the_day.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\bin\Debug\Assignment_of_the_day.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\obj\Debug\Assignment_of_the_day.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\obj\Debug\Assignment_of_the_day.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\obj\Debug\Assignment_of_the_day.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Assignment_of_the_day\obj\Debug\Assignment_of_the_day.pdb

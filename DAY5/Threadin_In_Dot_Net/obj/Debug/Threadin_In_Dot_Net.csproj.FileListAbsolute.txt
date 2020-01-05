@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\bin\Debug\Threadin_In_Dot_Net.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\bin\Debug\Threadin_In_Dot_Net.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\bin\Debug\Threadin_In_Dot_Net.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\obj\Debug\Threadin_In_Dot_Net.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\obj\Debug\Threadin_In_Dot_Net.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\obj\Debug\Threadin_In_Dot_Net.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\Threadin_In_Dot_Net\obj\Debug\Threadin_In_Dot_Net.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\bin\Debug\ClienSide.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\bin\Debug\ClienSide.exe
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\bin\Debug\ClienSide.pdb
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\MainWindow.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\App.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide_MarkupCompile.cache
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide_MarkupCompile.lref
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\MainWindow.baml
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.g.resources
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.Properties.Resources.resources
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.csproj.GenerateResource.cache
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.exe
+C:\Users\snk75\Desktop\DOT(NET)\Web_Services_Practice\ClienSide\obj\Debug\ClienSide.pdb

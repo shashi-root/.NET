@@ -1,0 +1,15 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\MainWindow.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\App.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database_MarkupCompile.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database_MarkupCompile.lref
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\bin\Debug\Notes_Database.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\bin\Debug\Notes_Database.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\bin\Debug\Notes_Database.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\MainWindow.baml
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.g.resources
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.Properties.Resources.resources
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.csproj.GenerateResource.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY9\Notes_Database\obj\Debug\Notes_Database.pdb

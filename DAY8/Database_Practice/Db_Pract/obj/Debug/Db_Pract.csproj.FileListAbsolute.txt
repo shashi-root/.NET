@@ -1,0 +1,17 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\bin\Debug\Db_Pract.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\bin\Debug\Db_Pract.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\bin\Debug\Db_Pract.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\MainWindow.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\App.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract_MarkupCompile.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract_MarkupCompile.lref
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\MainWindow.baml
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.g.resources
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.Properties.Resources.resources
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.csproj.GenerateResource.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Db_Pract.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Window1.g.cs
+C:\Users\snk75\Desktop\DOT(NET)\DAY8\Database_Practice\Db_Pract\obj\Debug\Window1.baml

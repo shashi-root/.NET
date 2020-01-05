@@ -1,0 +1,10 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\bin\Debug\Inhertance.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\bin\Debug\Inhertance.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\bin\Debug\Inhertance.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\obj\Debug\Inhertance.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\obj\Debug\Inhertance.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\obj\Debug\Inhertance.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\obj\Debug\Inhertance.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\bin\Debug\Inheritance _example_protected_internal.dll
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\bin\Debug\Inheritance _example_protected_internal.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY2\Inhertance\obj\Debug\Inhertance.csproj.CopyComplete

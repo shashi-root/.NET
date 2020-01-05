@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\bin\Debug\NOTES_ASSIGNMENTS.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\bin\Debug\NOTES_ASSIGNMENTS.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\bin\Debug\NOTES_ASSIGNMENTS.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\obj\Debug\NOTES_ASSIGNMENTS.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\obj\Debug\NOTES_ASSIGNMENTS.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\obj\Debug\NOTES_ASSIGNMENTS.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\NOTES_ASSIGNMENTS\obj\Debug\NOTES_ASSIGNMENTS.pdb

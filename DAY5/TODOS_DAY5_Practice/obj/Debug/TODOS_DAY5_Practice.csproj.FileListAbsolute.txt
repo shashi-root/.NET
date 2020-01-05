@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\bin\Debug\TODOS_DAY5_Practice.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\bin\Debug\TODOS_DAY5_Practice.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\bin\Debug\TODOS_DAY5_Practice.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\obj\Debug\TODOS_DAY5_Practice.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\obj\Debug\TODOS_DAY5_Practice.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\obj\Debug\TODOS_DAY5_Practice.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY5\TODOS_DAY5_Practice\obj\Debug\TODOS_DAY5_Practice.pdb

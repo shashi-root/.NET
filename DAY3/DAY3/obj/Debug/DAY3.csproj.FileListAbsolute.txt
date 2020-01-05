@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\bin\Debug\DAY3.exe.config
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\bin\Debug\DAY3.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\bin\Debug\DAY3.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\obj\Debug\DAY3.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\obj\Debug\DAY3.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\obj\Debug\DAY3.exe
+C:\Users\snk75\Desktop\DOT(NET)\DAY3\DAY3\obj\Debug\DAY3.pdb

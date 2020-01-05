@@ -1,0 +1,6 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\bin\Debug\Shared_assembly.dll
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\bin\Debug\Shared_assembly.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\obj\Debug\Shared_assembly.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\obj\Debug\Shared_assembly.dll
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\obj\Debug\Shared_assembly.pdb
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shared_assembly\obj\Debug\Shared_assembly.csprojAssemblyReference.cache

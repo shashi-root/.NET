@@ -1,0 +1,2 @@
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shares_assembly\obj\Debug\Shares_assembly.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\DAY7\Shares_assembly\obj\Debug\Shares_assembly.csproj.CoreCompileInputs.cache

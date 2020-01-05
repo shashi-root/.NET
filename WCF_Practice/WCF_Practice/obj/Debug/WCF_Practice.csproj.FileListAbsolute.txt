@@ -1,0 +1,7 @@
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\bin\WCF_Practice.dll.config
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\bin\WCF_Practice.dll
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\bin\WCF_Practice.pdb
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\obj\Debug\WCF_Practice.csprojAssemblyReference.cache
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\obj\Debug\WCF_Practice.csproj.CoreCompileInputs.cache
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\obj\Debug\WCF_Practice.dll
+C:\Users\snk75\Desktop\DOT(NET)\WCF_Practice\WCF_Practice\obj\Debug\WCF_Practice.pdb
